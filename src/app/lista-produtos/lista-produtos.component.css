@@ -1,3 +1,11 @@
 .descricao {
   font-size: 12px;
 }
+.compartilhar {
+  background-color: #55f;
+  border-radius: 5px;
+  color: #fff;
+  font-family: Verdana, Tahoma, sans-serif;
+  height: 30px;
+  width: 120px;
+}
