@@ -1,6 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
-import { Produto } from '../produtos';
-
+import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-alerta-produtos',
   templateUrl: './alerta-produtos.component.html',
